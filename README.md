@@ -1,4 +1,4 @@
 # youtubetutorial
 sketch2code testing
 
-## website live at: [https://sambatlim.github.io/youtubetutorial/](Github page)
+## website live at: [github page](https://sambatlim.github.io/youtubetutorial/)
